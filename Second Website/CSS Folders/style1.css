@@ -1,0 +1,101 @@
+body {
+  /* background-image: linear-gradient(to right bottom, #6190e8, #a7bfe8); */
+  background-color: #f8fafc;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+#title {
+  font-size: 32px;
+  text-align: center;
+  /* font-weight: 800; */
+  /* background-image: linear-gradient(to left top, #fceabb, #f8b500); */
+  /* border-radius: 30px; */
+  /* padding: 10px; */
+  /* color: white; */
+  color: black;
+  /* font-family: "Luxurious Roman", cursive; */
+  border-bottom: 1px solid rgba(0, 0, 0, 0.602);
+  
+  margin: 20px 450px 30px 450px;
+}
+p {
+  /* text-align: center; */
+  margin: 20px 200px;
+}
+
+.sub {
+  /* font-size: 24px; */
+  font-size: 22px;
+  /* font-weight: 300; */
+  font-weight: 500;
+  text-align: center;
+  /* background-color: #94dfff; */
+  background-color: #3897d318;
+  /* margin: 20px 300px; */
+  margin: 10px 250px;
+  /* padding: 7px; */
+  padding: 10px;
+  /* border-radius: 10px; */
+  border-radius: 10px;
+  /* color: white; */
+  color: #272727;
+  /* font-family: "Luxurious Roman", cursive; */
+}
+.text {
+  /* font-size: 20px; */
+  font-size: 16px;
+  text-align: center;
+  margin: 10px 250px;
+  /* font-weight: 100; */
+  /* color: white; */
+  /* font-weight: 200; */
+  font-weight: 400;
+  color: #333333;
+}
+a {
+  /* margin: 12px 50px; */
+  margin: 300px 50px;
+  /* text-decoration: none; */
+  text-decoration: none;
+  /* font-size: 24px; */
+  font-size: 18px;
+  /* color: white; */
+  color: white;
+  /* background-color: orange; */
+  background-color: #a64dff;
+  /* padding: 10px 50px; */
+  padding: 15px 50px;
+  /* border-radius: 100px; */
+  border-radius: 20px;
+  /* text-align: center; */
+  /* I don't place a text-align in the edited one */
+}
+a:hover {
+  text-decoration: underline;
+}
+.links {
+  text-align: center;
+  margin: 30px 200px;
+  /* I added the margin */
+}
+img { /* I should change the image */
+  width: 300px;
+  border-radius: 50%;
+  /* margin-bottom: 20px; */
+
+}
+#rate {
+  padding: 20px 300px;
+  font-size: 30px;
+}
+#last {
+  /* font-size: 24px; */
+  font-size: 18px;
+  /* color: white; */
+  color: #9d4821;
+  font-weight: 350;
+  /* text-align: center; */
+  /* margin-top: 30px; */
+  margin: 15px 200px;
+}
